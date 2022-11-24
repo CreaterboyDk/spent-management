@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spent-management/static/css/main.b2719efc.css",
+    "main.js": "/spent-management/static/js/main.9b843211.js",
+    "index.html": "/spent-management/index.html",
+    "main.b2719efc.css.map": "/spent-management/static/css/main.b2719efc.css.map",
+    "main.9b843211.js.map": "/spent-management/static/js/main.9b843211.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2719efc.css",
+    "static/js/main.9b843211.js"
+  ]
+}
